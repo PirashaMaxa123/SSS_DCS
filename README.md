@@ -6,7 +6,7 @@ In this project used Double Submit Cookie Pattern to avoid Cross-site Request Fo
 
 Download and Installation
 Clone the project to the local Machine
-git clone https://github.com/AnuradhaSD/CSRF_DoubleSubmitCookiePattern.git
+git clone https://github.com/PirashaMaxa123/SSS_DCS.git
 
 Run application
 Application Implemented Using Eclipse IDE
